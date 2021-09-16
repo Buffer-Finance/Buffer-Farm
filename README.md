@@ -2,7 +2,7 @@
 
 ## Prerequisities
 
-- [Node.js v12.20.2][1]
+- [Node.js v12.20.2](https://nodejs.org/en/)
 
 ## Install
 
